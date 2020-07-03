@@ -1,0 +1,20 @@
+###
+
+# curl -XPOST -d 'username=john&password=smith' http://localhost:8081/public/users/register
+#b856850e-1ad4-456d-b5ca-1c2bfc355e5
+POST b856850e-1ad4-456d-b5ca-1c2bfc355e5
+Content-Type: application/x-www-form-urlencoded
+
+username=john&password=smith
+
+###
+
+# curl -XPOST -d 'username=john&password=smith' http://localhost:8081/public/users/register
+#b856850e-1ad4-456d-b5ca-1c2bfc355e5
+POST b856850e-1ad4-456d-b5ca-1c2bfc355e5
+Content-Type: application/x-www-form-urlencoded
+
+username=john&password=smith
+
+###
+
